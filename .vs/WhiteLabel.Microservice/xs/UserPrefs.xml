@@ -1,8 +1,6 @@
-﻿<Properties StartupConfiguration="{88ECDD9E-E1AC-4C69-AA7F-3BCB26DF585B}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{EECECFF6-F303-49AB-A86E-227E70EBAC95}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.Product.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Product.API/Controllers/ProductController.cs">
@@ -22,4 +20,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

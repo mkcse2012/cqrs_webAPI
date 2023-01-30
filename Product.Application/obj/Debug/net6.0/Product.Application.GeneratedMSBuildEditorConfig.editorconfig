@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Product.Application
-build_property.ProjectDir = /Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/
+build_property.ProjectDir = /Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/

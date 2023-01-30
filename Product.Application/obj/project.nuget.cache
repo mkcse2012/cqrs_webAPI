@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s2d5Pc+7CAOI6Eah2tQiDanFA1f8ik/HBmz1OerQTw129RkHHUfCQ/4/TWYIqyQMkPwbH/qZsIWHIuyMWBvp1Q==",
+  "dgSpecHash": "rpq253fpjVB7lJIxsmFp83DfTQSRYmemf0+oz4T09nVPMqoyMdiCjEskhswXwtF1TtXwdb/PiL6QgVZ5YFi+Zg==",
   "success": true,
-  "projectFilePath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/Product.Application.csproj",
+  "projectFilePath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/Product.Application.csproj",
   "expectedPackageFiles": [
     "/Users/muthukumarkamatchi/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/muthukumarkamatchi/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

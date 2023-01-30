@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hK6k6Zml7M8qXYtBCClchHDeVf8J2KifcxECwicAsTt4NYpMuUqWFTK2vA3EnDw6a4eJF7iD7v1NEco71wdn3g==",
+  "dgSpecHash": "2ewBO2mIBKj5v4qbTl0rDBU+kl1nIbdugmTzW5LvQ3/fxZP4NpJobPXAT4EJ/e0mTRmbEMhf3ql8Z7SnEBTxOw==",
   "success": true,
-  "projectFilePath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Domain/Product.Domain.csproj",
+  "projectFilePath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Domain/Product.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

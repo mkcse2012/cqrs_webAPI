@@ -2714,11 +2714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.API/Product.API.csproj",
+      "projectUniqueName": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.API/Product.API.csproj",
       "projectName": "Product.API",
-      "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.API/Product.API.csproj",
+      "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.API/Product.API.csproj",
       "packagesPath": "/Users/muthukumarkamatchi/.nuget/packages/",
-      "outputPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.API/obj/",
+      "outputPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muthukumarkamatchi/.nuget/NuGet/NuGet.Config"
@@ -2734,11 +2734,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/Product.Application.csproj": {
-              "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/Product.Application.csproj"
+            "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/Product.Application.csproj": {
+              "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/Product.Application.csproj"
             },
-            "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Infrastructure/Product.Infrastructure.csproj": {
-              "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Infrastructure/Product.Infrastructure.csproj"
+            "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Infrastructure/Product.Infrastructure.csproj": {
+              "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Infrastructure/Product.Infrastructure.csproj"
             }
           }
         }

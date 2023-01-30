@@ -549,11 +549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/Product.Application.csproj",
+      "projectUniqueName": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/Product.Application.csproj",
       "projectName": "Product.Application",
-      "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/Product.Application.csproj",
+      "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/Product.Application.csproj",
       "packagesPath": "/Users/muthukumarkamatchi/.nuget/packages/",
-      "outputPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/",
+      "outputPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muthukumarkamatchi/.nuget/NuGet/NuGet.Config"
@@ -569,8 +569,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Domain/Product.Domain.csproj": {
-              "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Domain/Product.Domain.csproj"
+            "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Domain/Product.Domain.csproj": {
+              "projectPath": "/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/cqrs_webAPI/Product.Domain/Product.Domain.csproj"
             }
           }
         }
