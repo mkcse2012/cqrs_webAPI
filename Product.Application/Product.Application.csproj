@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="FluentValidation.DependencyInjectionExtensions" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Microsoft.Extensions.Logging.Abstractions" />
+    <None Remove="Contracts\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Features\" />
+    <None Remove="Mappings\" />
+    <None Remove="Contracts\Persistence\" />
+    <None Remove="Features\Products\" />
+    <None Remove="Features\Products\Commands\" />
+    <None Remove="Features\Products\Queries\" />
+    <None Remove="Features\Products\Commands\CreateProduct\" />
+    <None Remove="Features\Products\Queries\GetProductByCode\" />
+    <None Remove="Features\Products\Queries\GetProductList\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.4.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Features\" />
+    <Folder Include="Mappings\" />
+    <Folder Include="Contracts\Persistence\" />
+    <Folder Include="Features\Products\" />
+    <Folder Include="Features\Products\Commands\" />
+    <Folder Include="Features\Products\Queries\" />
+    <Folder Include="Features\Products\Commands\CreateProduct\" />
+    <Folder Include="Features\Products\Queries\GetProductByCode\" />
+    <Folder Include="Features\Products\Queries\GetProductList\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Product.Domain\Product.Domain.csproj" />
+  </ItemGroup>
+</Project>

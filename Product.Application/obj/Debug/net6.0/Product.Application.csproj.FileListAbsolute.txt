@@ -1,0 +1,15 @@
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.csproj.AssemblyReference.cache
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.AssemblyInfoInputs.cache
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.AssemblyInfo.cs
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.csproj.CoreCompileInputs.cache
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/bin/Debug/net6.0/Product.Application.deps.json
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/bin/Debug/net6.0/Product.Application.dll
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/bin/Debug/net6.0/Product.Application.pdb
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/bin/Debug/net6.0/Product.Domain.dll
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/bin/Debug/net6.0/Product.Domain.pdb
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.csproj.CopyComplete
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.dll
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/refint/Product.Application.dll
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/Product.Application.pdb
+/Users/muthukumarkamatchi/Desktop/Azure Devops/Microservice/WhiteLabel.Microservice/Product.Application/obj/Debug/net6.0/ref/Product.Application.dll
